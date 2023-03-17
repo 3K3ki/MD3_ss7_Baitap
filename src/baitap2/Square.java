@@ -41,11 +41,6 @@ public class Square extends Rectangle{
     }
 
     @Override
-    public void resize(double percent) {
-
-    }
-
-    @Override
     public void howToColor() {
         System.out.println("Color all four sides...");
     }

@@ -34,8 +34,8 @@ public class Circle extends Shape {
     }
 
     @Override
-    public void resize(double percent) {
-
+    public void howToColor() {
+        setColor("green");
     }
 
 

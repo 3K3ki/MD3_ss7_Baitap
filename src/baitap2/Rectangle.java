@@ -52,4 +52,10 @@ public class Rectangle extends Shape{
                 + super.toString();
     }
 
+    @Override
+    public void howToColor() {
+        setColor("black");
+    }
+
+
 }

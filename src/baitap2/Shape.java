@@ -29,5 +29,5 @@ public abstract class Shape {
                 + (isFilled() ? "filled" : "not filled");
     }
 
-    public abstract void resize(double percent);
+    public abstract void howToColor();
 }
